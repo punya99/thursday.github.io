@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://www.multistrongply.com/sitemap.xml
+
+# URL parameters blocking for SEO
+
+
+Disallow: /plywood-odissa.html
+Disallow: /block-board-odissa.html
+Disallow: /flush-door-odissa.html
+Disallow: /shuttering-plywood-odissa.html
+Disallow: /membrane-door-odissa.html
